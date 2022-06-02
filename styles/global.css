@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family:'Inter', sans-serif;
+}
+
+:root {
+  --primary: #8e2424;
+  --secondary: #101828;
+  --tertiary: #667085;
+  --background: #ffffff;
+  --backgroundNewsletter: #f9fafb;
+}
