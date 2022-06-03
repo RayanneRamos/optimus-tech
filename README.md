@@ -7,7 +7,7 @@
 [OptimusTech](EMBREVE) É um projeto que está sendo desenvolvido no desafio 7DaysOfCode da [Alura](https://alura.com.br/). O projeto desafia a montar uma landing page de um site onde o protótipo está disponível no figma utilizando somente HTML e CSS.
 
  - [x] Dia 1
- - [ ] Dia 2
+ - [x] Dia 2
  - [ ] Dia 3
  - [ ] Dia 4
  - [ ] Dia 5
