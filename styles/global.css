@@ -1,10 +1,10 @@
+@import url(./app.css);
+@import url(./header.css);
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-}
-
-@font-face {
   font-family:'Inter', sans-serif;
 }
 
@@ -14,4 +14,7 @@
   --tertiary: #667085;
   --background: #ffffff;
   --backgroundNewsletter: #f9fafb;
+  --textColor: #34404e;
+  --hoverButton: #b22727;
+  --hoverText: #413F42;
 }
