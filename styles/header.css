@@ -76,6 +76,7 @@ button:hover {
 
 a {
   text-decoration: none;
+  color: var(--tertiary);
 }
 
 a:hover {
@@ -87,4 +88,40 @@ a:visited {
   color: var(--tertiary);
 }
 
+.content {
+  height: 407px;
+  width: 1440px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
+.header__subheading {
+  margin-left: 681px;
+  margin-top: 96px;
+  font-size: 1rem;
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  line-height: 1.5rem;
+  color: var(--primary);
+}
+
+.header__title {
+  margin-left: 426px;
+  margin-top: 24px;
+  font-size: 3rem;
+  font-weight: 600;
+  font-family: 'Inter', sans-serif;
+  line-height: 3.75rem;
+  color: var(--secondary);
+}
+
+.header__subtitle {
+  margin-left: 324px;
+  margin-top: 36px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  font-size: 1.25rem;
+  line-height: 1.875rem;
+  color: var(--tertiary);
+}
