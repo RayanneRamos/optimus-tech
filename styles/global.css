@@ -1,5 +1,7 @@
 @import url(./app.css);
+@import url(./navbar.css);
 @import url(./header.css);
+@import url(./metrics.css);
 
 * {
   margin: 0;
