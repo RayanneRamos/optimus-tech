@@ -8,7 +8,7 @@
 
  - [x] Dia 1
  - [x] Dia 2
- - [ ] Dia 3
+ - [x] Dia 3
  - [ ] Dia 4
  - [ ] Dia 5
  - [ ] Dia 6
