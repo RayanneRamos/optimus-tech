@@ -1,0 +1,72 @@
+.metrics {
+  width: 1440px;
+  height: 288px;
+}
+
+.metrics__content {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.first__metrics {
+  width: 280px;
+  height: 168px;
+  margin-left: 112px;
+  margin-bottom: 216px;
+}
+
+.metrics__title {
+  width: 280px;
+  height: 72px;
+  font-family: 'Inter', sans-serif;
+  font-size: 60px;
+  font-weight: 600;
+  line-height: 72px;
+  color: #8e2424;
+}
+
+.metrics__subtitle {
+  width: 280px;
+  height: 28px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+  color: #101828;
+}
+
+.metrics__description {
+  width: 280px;
+  height: 48px;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #667085;
+}
+
+.second__metrics {
+  width: 280px;
+  height: 192px;
+  margin-left: 32px;
+  margin-bottom: 216px;
+
+}
+
+.third__metrics {
+  width: 280px;
+  height: 192px;
+  margin-left: 32px;
+  margin-bottom: 216px;
+}
+
+.fourth__metrics {
+  width: 280px;
+  height: 192px;
+  margin-left: 32px;
+  margin-bottom: 216px;
+  margin-right: 112px;
+}
+
