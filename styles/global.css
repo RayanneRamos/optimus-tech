@@ -2,6 +2,7 @@
 @import url(./navbar.css);
 @import url(./header.css);
 @import url(./metrics.css);
+@import url(./jobs.css);
 
 * {
   margin: 0;
