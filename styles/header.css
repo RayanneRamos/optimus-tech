@@ -1,37 +1,44 @@
-.content {
+.header {
   height: 407px;
   width: 100%;
+}
+
+.header__content {
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
 }
 
 .header__subheading {
-  margin-left: 681px;
+  margin-left: 100px;
   margin-top: 96px;
   font-size: 1rem;
   font-family: 'Inter', sans-serif;
   font-weight: 600;
   line-height: 1.5rem;
+  text-align: center;
   color: var(--primary);
 }
 
 .header__title {
-  margin-left: 426px;
+  margin-left: 200px;
   margin-top: 24px;
   font-size: 3rem;
   font-weight: 600;
   font-family: 'Inter', sans-serif;
   line-height: 3.75rem;
   color: var(--secondary);
+  text-align: center;
 }
 
 .header__subtitle {
-  margin-left: 324px;
+  margin-left: 150px;
   margin-top: 36px;
   font-family: 'Inter', sans-serif;
   font-weight: 400;
   font-size: 1.25rem;
   line-height: 1.875rem;
+  text-align: center;
   color: var(--tertiary);
 }
