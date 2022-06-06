@@ -20,6 +20,7 @@
   --textColor: #34404e;
   --hoverButton: #b22727;
   --hoverText: #413F42;
+  --border-color: #eaecf0;
 }
 
 @media (max-width: 1080px) {
