@@ -20,7 +20,6 @@
 .metrics__title {
   width: 280px;
   height: 72px;
-  font-family: 'Inter', sans-serif;
   font-size: 3.75rem;
   font-weight: 600;
   line-height: 4.5rem;
@@ -30,7 +29,6 @@
 .metrics__subtitle {
   width: 280px;
   height: 28px;
-  font-family: 'Inter', sans-serif;
   font-weight: 500;
   font-size: 1.125rem;
   line-height: 1.75rem;
