@@ -3,6 +3,7 @@
 @import url(./header.css);
 @import url(./metrics.css);
 @import url(./jobs.css);
+@import url(./depositions.css);
 
 * {
   margin: 0;
