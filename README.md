@@ -3,23 +3,7 @@
 </h1>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/43352880/172694994-91184ac9-74a7-48f2-bb9e-30dc4158104d.PNG" alt="optimus tech">
-
-<p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/RayanneRamos/optimustech" />
-  
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/RayanneRamos/optimustech" />
-  
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/RayanneRamos/optimustech" />
-
-  <a href="https://github.com/RayanneRamos/optimustech/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/RayanneRamos/optimustech" />
-  </a>
-  
-  <a href="https://github.com/RayanneRamos/optimustech/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/RayanneRamos/optimustech" />
-  </a>
 </p>
-
 
 ## 💻 Projeto
 
