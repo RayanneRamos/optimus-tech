@@ -4,6 +4,7 @@
 @import url(./metrics.css);
 @import url(./jobs.css);
 @import url(./depositions.css);
+@import url(./footer.css);
 
 * {
   margin: 0;
