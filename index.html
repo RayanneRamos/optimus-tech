@@ -11,158 +11,23 @@
   <title>Document</title>
 </head>
 <body>
-  <div id="app">
-    <header>
-      <div>
-        <nav>
-          <ul id="navigation">
-            <li>
-              <a>
-                <img src="./assets/logo.png" alt="logo da empresa" class="navigation__logo" />
-              </a>
-            </li>
-            <li>
-              <a>
-                <h3 class="navigation__text">OptimusTech</h3>
-              </a>
-            </li>
-            <li class="menu__item">
-              <a href="#">Home</a>
-            </li>
-            <li class="menu__item">
-              <a href="#">Produtos</a>
-            </li>
-            <li class="menu__item">
-              <a href="#">Recursos</a>
-            </li>
-            <li class="menu__item">
-              <a href="#">Sobre nós</a>
-            </li>
-            <li class="menu__item">
-              <a href="#" class="menu__login">Entrar</a>
-            </li>
-            <li class="menu-item">
-              <a href="#">
-                <button type="button" class="navigation__register">Cadastrar</button>
-              </a>
-            </li>
-          </ul>
-        </nav>
+  <nav>
+    <img src="./assets/logo.svg" alt="Logo da página" />
+    <div class="sideMenu">
+      <img src="./assets/menu-icon.svg" alt="Menu icon" />
+    </div>
+    <div class="menu">
+      <div class="links">
+        <a href="#">Home</a>
+        <a href="#">Produtos</a>
+        <a href="#">Recursos</a>
+        <a href="#">Sobre nós</a>
       </div>
-    </header>
-    <main>
-      <div class="header">
-        <section class="header__content">
-          <span class="header__subheading">Sobre nós</span>
-          <h1 class="header__title">Por que somos diferentes?</h1>
-          <p class="header__subtitle">
-            Nos focamos nos detalhes de tudo que fazemos. Tudo para ajudar as empresas de <br>
-            todo o mundo a se concentrarem naquilo que é realmente importante para elas.
-          </p>
-        </section>
+      <div class="button">
+        <button>Entrar</button>
+        <button class="signUp">Cadastrar</button>
       </div>
-      <section class="metrics">
-        <div class="metrics__content">
-          <div class="first__metrics">
-            <h1 class="metrics__title">400+</h1>
-            <span class="metrics__subtitle">Projetos concluídos</span>
-            <p class="metrics__description">Nós ajudamos a construir mais de 400 projetos incríveis.</p>
-          </div>
-          <div class="second__metrics">
-            <h1 class="metrics__title">100+</h1>
-            <span class="metrics__subtitle">Colaboradores</span>
-            <p class="metrics__description">Temos mais de 100 colaboradores no nosso time que se preocupam com nossos clientes.</p>
-          </div>
-          <div class="third__metrics">
-            <h1 class="metrics__title">20K</h1>
-            <span class="metrics__subtitle">Downloads</span>
-            <p class="metrics__description">Nossos projetos que estão disponíveis em lojas já foram baixados mais de 20.000 vezes.</p>
-          </div>
-          <div class="fourth__metrics">
-            <h1 class="metrics__title">500+</h1>
-            <span class="metrics__subtitle">Reviews 5 estrelas</span>
-            <p class="metrics__description">Estamos orgulhosos de contar com mais de 500 reviews 5 estrelas em nossos produtos.</p>
-          </div>
-        </div>
-      </section>
-      <section class="jobs">
-        <div class="jobs__content">
-          <span class="jobs__subtitle">Vagas abertas!</span>
-          <h1 class="jobs__title">Estamos procurando por talentos</h1>
-          <p class="jobs__description">Somos uma equipe 100% remota com pessoas do Brasil inteiro.</p>
-          <img class="jobs__image" src="./assets/pessoas.png" alt="Pessoas trabalhando" />
-        </div>
-        <div class="opportunities">
-          <div class="opportunities__container">
-            <h3 class="opportunities__title">Design</h3>
-            <div class="opportunities__content">
-              <h4 class="opportunities__subtitle">Product Designer</h4>
-              <div class="opportunities__description">
-                <span class="description__info">Full-time</span>
-                <span class="description__info">Faixa salarial: R$7.000</span>
-              </div>
-            </div>
-            <div class="opportunities__content">
-              <h4 class="opportunities__subtitle">UX Designer</h4>
-              <div class="opportunities__description">
-                <span class="description__info">Full-time</span>
-                <span class="description__info">Faixa salarial: R$6.000</span>
-              </div>
-            </div>
-            <h4 class="opportunities__title">Desenvolvimento de Software</h4>
-            <div class="opportunities__content">
-              <h4 class="opportunities__subtitle">Desenvolvedor(a) iOS</h4>
-              <div class="opportunities__description">
-                <span class="description__info">Full-time</span>
-                <span class="description__info">Faixa salarial: R$8.000</span>
-              </div>
-            </div>
-            <div class="opportunities__content">
-              <h4 class="opportunities__subtitle">Desenvolvedor(a) Front-end</h4>
-              <div class="opportunities__description">
-                <span class="description__info">Full-time</span>
-                <span class="description__info">Faixa salarial: R$7.000</span>
-              </div>
-            </div>
-            <div class="opportunities__content">
-              <h4 class="opportunities__subtitle">Desenvolvedor(a) Back-end</h4>
-              <div class="opportunities__description">
-                <span class="description__info">Full-time</span>
-                <span class="description__info">Faixa salarial: R$8.000</span>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-      <section class="depositions">
-        <div class="depositions__container">
-          <div class="deposiitons__content">
-            <span class="depositions__info">Veja o que nossos colaboradores falam sobre nós</span>
-            <h1 class="depositions__title">OptimusTech se importa com a saúde dos seus colaboradores e sempre procura nos dar todo tipo de auxílio possível.</h1>
-            <div class="depositions__customers">
-              <img class="depositions__image" src="./assets/avatar.png" alt="avatar da júlia" />
-              <span class="depositions__name">Júlia Castro</span>
-              <span class="depositions__office">Desenvolvedora Web</span>
-            </div>
-          </div>
-        </div>
-      </section>
-      <footer class="footer">
-        <div class="footer__container">
-          <div class="footer__content">
-            <h1 class="footer__title">Acompanhe as nossas oportunidades</h1>
-            <span class="footer__subtitle">Seja o primeiro a saber quando novas vagas serão abertas!</span>
-            <div class="footer__form">
-              <form action="" class="footer__form">
-                <input class="footer__input" id="email" type="email" name="email" placeholder="Seu e-mail" />
-                <button class="footer__button" type="button">Cadastrar</button>
-              </form>
-            </div>
-          </div>
-          <span class="footer__description">© 2022 OptimusTech. Todos os direitos reservados.</span>
-        </div>
-      </footer>
-    </main>
-  </div>
+    </div>
+  </nav>
 </body>
 </html>
