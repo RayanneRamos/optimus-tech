@@ -50,7 +50,7 @@ Você pode visualizar o layout do projeto através:
  - [LayoutWeb](https://www.figma.com/file/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?node-id=0%3A1) 
 
 ## 🔥 Desafios
- - [ ] Responsividade
+ - [x] Responsividade
  - [x] Deploy
 
 ## 📝 License
