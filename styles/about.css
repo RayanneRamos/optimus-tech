@@ -1,0 +1,25 @@
+.about-us {
+  padding: 6rem 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem; /* poderia ser margin-bottom pra cada elemento, gap dá um espaçamento entre todos
+  os filhos de uma div com display flex*/
+}
+
+.about-us span {
+  color: var(--main-color);
+}
+
+.about-us h1 {
+  font-size: 2rem;
+  color: var(--title-color);
+  text-align: center;
+}
+
+.about-us p {
+  color: var(--text-color);
+  max-width: 50%;
+  text-align: center;
+  line-height: 1.5rem;
+}
