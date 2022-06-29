@@ -26,3 +26,28 @@
   font-weight: 500;
   color: #101828;
 }
+
+@media screen and (max-width: 920px) {
+  .metrics {
+    padding: 0 64px;
+  }
+}
+
+@media screen and (max-width: 850px) {
+  .metrics {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .metric {
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 32px;
+  }
+
+  .metric span {
+    max-width: 280px;
+    text-align: center;
+  }
+}

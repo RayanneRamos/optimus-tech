@@ -34,3 +34,13 @@
   display: flex;
   gap: 32px;
 }
+
+@media screen and (max-width: 850px) {
+  .vaga {
+    max-width: 70%;
+  }
+  
+  .vagas-abertas span.area-principal {
+    max-width: 70%;
+  }
+}

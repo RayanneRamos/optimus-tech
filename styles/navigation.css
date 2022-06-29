@@ -54,3 +54,36 @@ button.signUp {
   height: 24px;
   cursor: pointer;
 }
+
+@media screen and (max-width: 850px) {
+  .sideMenu {
+    display: initial;
+    visibility: visible;
+  }
+
+  .links {
+    margin: 32px 0;
+  }
+
+  .links a {
+    margin-right: 0;
+  }
+
+  .menu {
+    flex-direction: column;
+    position: fixed;
+    top: 0;
+    right: -1000px;
+    height: 100vh;
+    background: #F9FAFB;
+    width: 240px;
+    padding: 32px;
+    transition: all 2s;
+  }
+
+  .menu .links, .menu .buttons {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+}
