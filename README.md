@@ -52,6 +52,8 @@ Você pode visualizar o layout do projeto através:
 ## 🔥 Desafios
  - [x] Responsividade
  - [x] Deploy
+ - [ ] Validação do campo de Newsletter
+ - [ ] Colocar o cursor pointer nos botões
 
 ## 📝 License
 
