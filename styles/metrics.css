@@ -1,0 +1,28 @@
+.metrics {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  column-gap: 3rem;
+  padding: 0 8rem;
+}
+
+.metric {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.metric h1 {
+  color: var(--main-color);
+  font-size: 3rem;
+}
+
+.metric span {
+  color: var(--text-color);
+  line-height: 140%;
+  font-size: 90%;
+}
+
+.metric .metric-title {
+  font-weight: 500;
+  color: #101828;
+}
