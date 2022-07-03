@@ -54,7 +54,6 @@ Você pode visualizar o layout do projeto através:
  - [x] Deploy
  - [x] Validação do campo de Newsletter
  - [x] Colocar o cursor pointer nos botões
- - [ ] Adicionar modal na validação do campo email
 
 ## 📝 License
 
