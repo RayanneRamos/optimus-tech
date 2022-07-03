@@ -30,3 +30,8 @@ footer input {
   width: 192px;
   margin-right: 16px;
 }
+
+footer button:hover {
+  background-color: #630606;
+  transition: 0.8s;
+}
