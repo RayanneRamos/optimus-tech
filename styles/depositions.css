@@ -1,0 +1,45 @@
+.depositions {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 80%;
+  margin: 128px auto;
+  background-color: rgba(195, 25, 25, 0.05);
+  padding: 48px 32px;
+}
+
+.depositions span {
+  color: var(--main-color);
+  font-weight: 500;
+  text-align: center;
+}
+
+.depositions img {
+  width: 48px;
+}
+
+.depositions h2 {
+  color: var(--title-color);
+  font-weight: 500;
+  text-align: center;
+  max-width: 70%;
+  margin: 32px 0;
+}
+
+.depositions span.nome {
+  color: var(--title-color);
+  margin: 8px 0;
+  font-weight: 400;
+}
+
+.depositions span.cargo {
+  color: var(--text-color);
+  font-weight: 400;
+}
+
+@media screen and (max-width: 850px) {
+  .depositions h2 {
+    max-width: 100%;
+    font-size: 1.2rem;
+  }
+}
