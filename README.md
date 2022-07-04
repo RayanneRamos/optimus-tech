@@ -14,7 +14,7 @@
 
 ## 💻 Projeto
 
-[OptimusTech](https://optimus-tech-5ifb0mww8-rayanneramos.vercel.app/) É um projeto que está sendo desenvolvido no desafio 7DaysOfCode da [Alura](https://alura.com.br/). O projeto desafia a montar uma landing page de um site onde o protótipo está disponível no figma utilizando somente HTML e CSS.
+[OptimusTech](https://optimus-tech-plum.vercel.app/) É um projeto que está sendo desenvolvido no desafio 7DaysOfCode da [Alura](https://alura.com.br/). O projeto desafia a montar uma landing page de um site onde o protótipo está disponível no figma utilizando somente HTML e CSS.
 
  - [x] Dia 1
  - [x] Dia 2
@@ -30,6 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
  - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
  - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/)
+ - [JS](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 
 ## 🚀 Instalação
