@@ -24,7 +24,7 @@
  - [x] Dia 6
  - [x] Dia 7
 
-## 🧪 Technologies
+## 🧪 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
